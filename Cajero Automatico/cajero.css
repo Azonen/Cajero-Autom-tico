@@ -1,0 +1,57 @@
+.Titulo {
+    text-align: center;
+    color: white;
+    height: 110px;
+}
+
+.main {
+    background-color: blue;
+    height: 100%;
+    
+}
+
+.col1 {
+    width: 300px;
+    height: auto;
+}
+
+.col2 {
+    width: 700px;
+    height: auto;
+}
+
+.col3 {
+    width: 300px;
+    height: auto;
+}
+
+.mi-boton{
+    border-radius: 100px;
+    background-color: blue;
+    height: 120px;
+    color: white;
+    
+}
+
+.mi-boton2{
+    border-radius: 100px;
+    background-color: blue;
+    height: 120px;
+    color: white;
+    
+}
+
+.mi-boton3{
+    border-radius: 100px;
+    background-color: blue;
+    height: 120px;
+    color: white;
+    
+}
+
+.numeros{
+    margin-top: 40px;
+    border-radius: 100px;
+    color: black;
+    height: 50px;
+}
